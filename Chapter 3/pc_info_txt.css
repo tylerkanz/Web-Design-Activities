@@ -1,0 +1,65 @@
+/*
+   New Perspectives on HTML5 and CSS3, 7th Edition
+   Tutorial 3
+   Tutorial Case
+   
+   Positioning Styles for the pc_info.html file
+   Author: Tyler Kanz
+   Date:  2/20/19
+   
+   Filename: pc_info.css
+
+*/
+
+div.infobox {display: none;}
+
+/* Main Styles */
+
+main {
+	position: relative;
+	height: 1400px;
+	width: 100%;
+}
+
+/* Infographic Styles */
+
+div.infobox {
+	position: absolute;
+}
+
+/* First Infographic */
+
+div#infol {
+	display: block;
+	top: 20px;
+	left 5%;
+}
+
+/* Second Infographic */
+
+
+
+/* Third Infographic */
+
+
+
+/* Fourth Infographic */
+
+
+
+/* Fifth Infographic */
+
+
+
+/* Sixth Infographic */
+
+
+
+/* Seventh Infographic */
+
+
+
+/* Eighth Infographic */
+
+
+
